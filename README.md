@@ -5,6 +5,8 @@ A real-time tracking and visualization application for stock portfolio data.
 ## Features Completed
 - User authentication (login/signup)
 - Basic dashboard with stock data visualization
+- Initial data visualization of stock trends
+
 
 ## Planned Features
 - Real-time API integration for stock prices
@@ -12,9 +14,9 @@ A real-time tracking and visualization application for stock portfolio data.
 - Responsive UI with React
 
 ## Technologies Used
-- Python, Django
-- React
-- PostgreSQL
+- **Backend:** Python, Django, PostgreSQL  
+- **Frontend:** React, HTML, CSS  
+- **APIs & Libraries:** REST APIs for stock data, Chart.js/Plotly for visualizations  
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/mounikaneelisetty9-jpg/stocks-portfolio-app.git`
